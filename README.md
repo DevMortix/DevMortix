@@ -5,12 +5,11 @@
 
 - 👨‍💻 Currently learning **JavaScript, PHP**
 
-- 📄 How to reach me **jan.motlik3@gmail.com**
+- 📄 How to reach me **jan.motlik3@gmail.com, Mortix#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/uctciobob1hzs8zme6-tj0sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uctciobob1hzs8zme6-tj0sw" height="30" width="40" /></a>
-<a href="https://discord.gg/Mortix#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mortix#0001" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCtCiObOb1hzs8Zme6-tJ0sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uctciobob1hzs8zme6-tj0sw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
